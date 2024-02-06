@@ -6,8 +6,8 @@ Software Engineer
 
 * 🌍  I'm based in Bergen, Norway
 * ✉️  You can contact me at [brageaasen@hotmail.com](mailto:brageaasen@hotmail.com)
-* 🚀  I'm currently working on [Godot4 2d Game Jam, *TO BE NAMED*](https://github.com/brageaasen/Pirate-Jam-Jan2024) 
-* 🧠  I'm learning GDscript, React, JS
+* 🚀  I'm currently working on [TC39 Meeting notes AI API integration](https://github.com/brageaasen/ZINF-TC39) 
+* 🧠  I'm learning GDscript, React, JS, Typescript and Electron
 
 ### Skills
 
