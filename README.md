@@ -7,7 +7,7 @@ Software Engineer
 * 🌍  I'm based in Bergen, Norway
 * ✉️  You can contact me at [brageaasen@hotmail.com](mailto:brageaasen@hotmail.com)
 * 🚀  I'm currently working on [TC39 Meeting notes AI API integration](https://github.com/bldl/tc39-minutes-viewer)
-* 🧠  I'm learning GDscript, React, JS, Typescript and Electron
+* 🧠  I'm learning R, GDscript, React, JS, Typescript and Electron
 
 ### Skills
 
