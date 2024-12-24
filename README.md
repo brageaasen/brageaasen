@@ -1,4 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brage Løvfall Aasen
+Hi!👋
+My name is Brage Løvfall Aasen
 ===========================================================================================================================================
 
 Software Engineer
@@ -6,8 +7,6 @@ Software Engineer
 
 * 🌍  I'm based in Bergen, Norway
 * ✉️  You can contact me at [brageaasen@hotmail.com](mailto:brageaasen@hotmail.com)
-* 🚀  I'm currently working on [TC39 Meeting notes AI API integration](https://github.com/bldl/tc39-minutes-viewer)
-* 🧠  I'm learning R, GDscript, React, JS, Typescript and Electron
 
 ### Skills
 
