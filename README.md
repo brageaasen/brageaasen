@@ -1,4 +1,6 @@
-<img src="./images/welcome.gif" width="60%"/>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="./images/welcome.gif" width="70%" style="border-radius: 8px;" />
+</div>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
 
