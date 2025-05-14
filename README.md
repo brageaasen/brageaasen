@@ -1,4 +1,4 @@
-<img src="./images/computer.gif" width="100%"/>
+<img src="./images/welcome.gif" width="100%"/>
 
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
 
