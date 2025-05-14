@@ -15,11 +15,15 @@ I'm always curious and love learning new things, whether it's a new framework, a
 
 Speaking of games, I'm also really into game development. I currently use **Godot**, and some of my games are open source on my [GitHub page](https://github.com/brageaasen/Fuel-Fury), including one called *Fuel Fury*.
 
+<br>
+<br>
+<br>
+
 ## 👨🏻‍💻 About me
 
 <br>
 
-<img src="./images/message.gif" width="300px" align="right">
+<img src="./images/retro.gif" width="300px" align="right">
 
 - 🌎 I'm from Norway
 - 👨🏻‍💻 Love programming and gaming
@@ -28,8 +32,6 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via brageaasen@hotmail.com
 
-<br>
-<br>
 <br>
 <br>
 <br>
