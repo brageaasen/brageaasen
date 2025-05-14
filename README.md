@@ -23,7 +23,7 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 
 <br>
 
-<img src="./images/retro.gif" width="50%" height="50%" align="right">
+<img src="./images/retro.gif" width="10%" height="10%" align="right">
 
 - 🌎 I'm from Norway
 - 👨🏻‍💻 Love programming and gaming
@@ -35,42 +35,55 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 <br>
 <br>
 <br>
+<br>
+<br>
 
 ## 💻 Tech stack
 
 <!-- Programming Languages -->
-![Python Logo](/images/python.svg)  
-![JavaScript Logo](/images/javascript.svg)  
-![TypeScript Logo](/images/typescript.svg)  
-![Java Logo](/images/java.svg)  
-![C# Logo](/images/c-sharp.svg)  
-![Bash Logo](/images/bash.svg)  
-![Haskell Logo](/images/haskell.svg)  
-![R Logo](/images/r-project.svg)  
+<div align="center">
+  <img src="/images/python.svg" width="50px" />
+  <img src="/images/javascript.svg" width="50px" />
+  <img src="/images/typescript.svg" width="50px" />
+  <img src="/images/java.svg" width="50px" />
+  <img src="/images/c-sharp.svg" width="50px" />
+  <img src="/images/bash.svg" width="50px" />
+  <img src="/images/haskell.svg" width="50px" />
+  <img src="/images/r-project.svg" width="50px" />
+</div>
 
 <!-- Machine Learning & Data -->
-![PyTorch Logo](/images/pytorch.svg)  
-![MySQL Logo](/images/mysql.svg)  
+<div align="center">
+  <img src="/images/pytorch.svg" width="50px" />
+  <img src="/images/mysql.svg" width="50px" />
+</div>
 
 <!-- Web & App Development -->
-![HTML5 Logo](/images/html5.svg)  
-![CSS3 Logo](/images/css3.svg)  
-![React Native Logo](/images/react-native.svg)  
+<div align="center">
+  <img src="/images/html5.svg" width="50px" />
+  <img src="/images/css3.svg" width="50px" />
+  <img src="/images/react-native.svg" width="50px" />
+</div>
 
 <!-- Tools & Environments -->
-![GitHub Logo](/images/github.svg)  
-![TeXShop Logo](/images/texshop.svg)  
+<div align="center">
+  <img src="/images/github.svg" width="50px" />
+  <img src="/images/texshop.svg" width="50px" />
+</div>
 
 <!-- Game Dev -->
-![Unity Logo](/images/unity.svg)  
-![Godot Logo](/images/godot.svg)
+<div align="center">
+  <img src="/images/unity.svg" width="50px" />
+  <img src="/images/godot.svg" width="50px" />
+</div>
+
 
 ---
 
 <p align="center" > 
   <i>Thanks for passing by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
+  <a href="https://www.linkedin.com/in/brage-aasen-b1054b224/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
 </p>
