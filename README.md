@@ -23,7 +23,7 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 
 <br>
 
-<img src="./images/retro.gif" width="25%" height="25%" align="right">
+<img src="./images/retro.gif" width="20%" height="20%" align="right">
 
 - 🌎 I'm from Norway
 - 👨🏻‍💻 Love programming and gaming
@@ -32,6 +32,7 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 - ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via brageaasen@hotmail.com
 
+<br>
 <br>
 <br>
 <br>
