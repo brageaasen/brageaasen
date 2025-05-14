@@ -23,7 +23,7 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 
 <br>
 
-<img src="./images/retro.gif" width="300px" align="right">
+<img src="./images/retro.gif" width="50%" height="50%" align="right">
 
 - 🌎 I'm from Norway
 - 👨🏻‍💻 Love programming and gaming
