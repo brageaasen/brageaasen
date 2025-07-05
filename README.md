@@ -28,8 +28,6 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 - 🌎 I'm from Norway
 - 👨🏻‍💻 Love programming and gaming
 - 🧠 Love sharing knowledge
-- 🌌 Passionate about the sky
-- ✈️ Traveling is one of my favorite hobbies
 - 📧 Reach me via brageaasen@hotmail.com
 
 <br>
