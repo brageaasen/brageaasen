@@ -1,7 +1,3 @@
-<div align="center" style="margin-bottom: 20px;">
-  <img src="./images/welcome.gif" width="70%" style="border-radius: 8px;" />
-</div>
-
 # 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
 
 I'm a full-stack developer with a passion for building things and exploring new tech.
@@ -87,3 +83,7 @@ Speaking of games, I'm also really into game development. I currently use **Godo
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
 </p>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img src="./images/welcome.gif" width="70%" style="border-radius: 8px;" />
+</div>
