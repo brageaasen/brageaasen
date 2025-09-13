@@ -33,7 +33,8 @@ Speaking of games, I'm also really into game development. I currently use **Godo
 <br>
 <br>
 <br>
-
+<br>
+<br>
 ## 💻 Tech stack
 
 <!-- Programming Languages -->
@@ -83,6 +84,8 @@ Speaking of games, I'm also really into game development. I currently use **Godo
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
 </p>
+
+<br>
 
 <div align="center" style="margin-bottom: 20px;">
   <img src="./images/welcome.gif" width="70%" style="border-radius: 8px;" />
