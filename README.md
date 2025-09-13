@@ -2,7 +2,7 @@
 
 I'm a full-stack developer with a passion for building things and exploring new tech.
 
-I've been working with technology since 2019, and over the years I've dabbled in everything from game development to web and app programming.
+I've been working with technology since 2019, and over the years I've dabbled in everything from game development, applied machine learning, to web and app programming.
 
 I have a bachelor's degree in computer science, and I'm currently doing a master's in machine learning.  
 Right now, I'm writing my thesis on classifying and identifying breast cancer using **magnification-independent breast cancer analysis with Vision Transformers**.
