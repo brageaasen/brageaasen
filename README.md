@@ -1,4 +1,4 @@
-# 🖖 Hey dev! Welcome to my profile <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
+# Welcome to my profile :) <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
 
 I'm a full-stack developer with a passion for building things and exploring new tech.
 
