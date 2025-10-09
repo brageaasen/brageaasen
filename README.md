@@ -1,19 +1,9 @@
 # Welcome to my profile :) <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
 
-I'm a full-stack developer with a passion for building things and exploring new tech.
+I'm a full-stack developer with a passion for building projects and exploring new tech.
 
-I've been working with technology since 2019, and over the years I've dabbled in everything from game development, applied machine learning, to web and app programming.
-
-I have a bachelor's degree in computer science, and I'm currently doing a master's in machine learning.  
-Right now, I'm writing my thesis on classifying and identifying breast cancer using **magnification-independent breast cancer analysis with Vision Transformers**.
-
-I'm always curious and love learning new things, whether it's a new framework, algorithm, or game engine.
-
-Speaking of games, I'm also really into game development. I currently use **Godot**, and some of my games are open source on my [GitHub page](https://github.com/brageaasen/Fuel-Fury), including one called *Fuel Fury*.
-
-<br>
-<br>
-<br>
+I have a bachelor's degree in computer science, and I'm currently pursuing a master's in machine learning.  
+Right now, I'm writing my thesis on classifying and identifying breast cancer whilst applying intrinsically and extrinsically XAI.
 
 ## 👨🏻‍💻 About me
 
