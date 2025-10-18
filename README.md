@@ -1,10 +1,5 @@
 # Welcome to my profile :) <img align="right" src="https://komarev.com/ghpvc/?username=brageaasen&style=flat-square&color=orange">
 
-I'm a full-stack developer with a passion for building projects and exploring new tech.
-
-I have a bachelor's degree in computer science, and I'm currently pursuing a master's in machine learning.  
-Right now, I'm writing my thesis on classifying and identifying breast cancer whilst applying intrinsically and extrinsically XAI.
-
 ## 👨🏻‍💻 About me
 
 <br>
