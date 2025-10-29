@@ -73,7 +73,3 @@
 </p>
 
 <br>
-
-<div align="center" style="margin-bottom: 20px;">
-  <img src="./images/welcome.gif" width="70%" style="border-radius: 8px;" />
-</div>
