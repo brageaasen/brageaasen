@@ -7,8 +7,6 @@
 <img src="./images/retro.gif" width="280px" height="360px" align="right">
 
 - 🌎 I'm from Norway
-- 👨🏻‍💻 Love programming and gaming
-- 🧠 Love sharing knowledge
 - 📧 Reach me via brageaasen@hotmail.com
 
 <br>
